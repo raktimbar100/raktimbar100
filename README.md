@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/12HIw4umCd50MsnFZ24D7MZqqFajkUd3G/view">
+<img src="https://github.com/raktimbar100/raktimbar100/blob/main/image.jpg">
 <h1 align="center">Hola 👋, I'm Raktim Bar</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 

@@ -1,4 +1,4 @@
-<img src="https://pasteboard.co/2EA9D84eiLNU.jpg">
+<img src="[https://pasteboard.co/2EA9D84eiLNU.jpg](https://im.ge/i/uQ47uy)">
 <h1 align="center">Hola 👋, I'm Raktim Bar</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 

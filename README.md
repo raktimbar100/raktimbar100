@@ -1,7 +1,7 @@
-<img src="https://github.com/raktimbar100/raktimbar100/blob/main/image.jpg">
+
 <h1 align="center">Hola 👋, I'm Raktim Bar</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
-
+<img src="https://github.com/raktimbar100/raktimbar100/blob/main/image.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raktimbar100&label=Profile%20views&color=0e75b6&style=flat" alt="raktimbar100" /> </p>
 
 <p align="left"> <a href="https://twitter.com/raktimbar7" target="blank"><img src="https://img.shields.io/twitter/follow/raktimbar7?logo=twitter&style=for-the-badge" alt="raktimbar7" /></a> </p>

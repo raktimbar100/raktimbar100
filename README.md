@@ -3,7 +3,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as a student.
 - 🌱 I’m currently learning DSA
